@@ -1,1 +1,1 @@
-# site-alura-criativa
+# site-alura-lixeira-automatica
